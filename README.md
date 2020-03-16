@@ -5,7 +5,7 @@ This tool will help to generate Random Password with 1 - 32 lenght. Also support
 
 The user will be prompted to choose from the following password criteria:
 
-* Length (must be between 8 and 128 characters)
+* Length (must be between 1 and 32 characters)
 
 * Character type:
 
